@@ -1,5 +1,5 @@
 # 💫 About Me:
-😄 Pronouns: He/His/Him<br>🔭 I’m currently working [@Delphix](https://www.delphix.com/) as part of the Core Infra Security Team.<br>
+😄 Pronouns: He/His/Him<br>🔭 I’m currently working [@ThoughtSpot](https://www.thoughtspot.com/) as part of the Solution Engineering Team.<br>
 
 [![](https://visitcount.itsvg.in/api?id=abhi2196&icon=5&color=0)](https://visitcount.itsvg.in)
 
